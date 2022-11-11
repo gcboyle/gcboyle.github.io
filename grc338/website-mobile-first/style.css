@@ -1,0 +1,136 @@
+/*CSS DOCUMENT*/
+html, body, div, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit;}
+
+
+body{
+  
+    background-color: rgb(255,255,250);
+    margin: 0em;  
+   
+}
+
+h1 {
+    width: 70em;
+    margin-left: 2em 2em ;
+}
+
+h2{
+    font-family: solitas-serif-extended, sans-serif;
+
+    font-weight: 700;
+    
+    font-style: normal;
+     
+padding: 1em .7rem .7rem; 
+
+font-size: 2em;
+margin-right: 2em;
+color: #876e74;
+
+
+}
+
+h3{
+    font-family: solitas-serif-extended, sans-serif;
+
+    font-weight: 500;
+    
+    font-style: italic;
+    color: ivory;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    padding-left: .5em;
+    background-color:#876e74;
+    font-size: 1.7em;
+    margin-right: 2em;
+}
+h4{
+
+
+    font-family: solitas-serif-normal, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    text-transform: uppercase;
+    color: #876e74;
+    padding: .7rem .5rem .5rem;
+    margin-left: .5em;
+    font-size: 1.2em;
+}
+h5{
+    font-family: solitas-serif-extended, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    padding: .5rem .5rem;
+    margin-right: 2em;
+    background-color: lightgray;
+
+}
+p{  padding: .5rem .5rem;
+    font-family: solitas-serif-extended, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    background-color: lightgray;
+   
+   
+}
+
+
+
+
+
+img {
+	width: 100%;
+	display: block;
+}
+
+nav ul { 
+    padding: .5rem .5rem .5rem;
+}
+
+nav ul li { 
+    display: inline;
+    list-style-type: none;
+    margin-left: .2em;
+    font-size: 1.7em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em ;
+    font-family: mrs-eaves, serif;
+
+font-weight: 700;
+font-style: normal;
+}
+nav ul li a{ 
+   color: #694b52;
+   text-decoration: none;
+}
+
+nav ul li a:hover   {  
+    color: #f9d99b;
+}
+    li { 
+        padding: .5rem .5rem .5rem;
+    }
+
+
+footer{
+    
+        height: 60px;
+        font-family: solitas-serif-extended, sans-serif;
+
+        font-weight: 500;
+        
+        font-style: italic;
+        color: ivory;
+       padding-top: .5em;
+       padding-left: .5em;
+    
+        background-color:#876e74;
+        font-size: 1.6em;
+	    
+        letter-spacing: .04em ;
+
+}
+
+div.container {   
+    max-width: 80em;
+}
